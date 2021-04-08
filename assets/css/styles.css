@@ -1,0 +1,157 @@
+body {
+  overflow-x: hidden;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #f5f5f5;
+}
+
+p {
+  font-size: 15px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+a {
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #000000;
+}
+
+.h_link ul li {
+  align-self: center;
+  font-size: 17px;
+}
+
+.nav-link {
+  padding-top: 5px;
+}
+
+.h_title h1 {
+  font-size: 57px;
+  border-top: 2px solid #FFFFFF;
+  margin-top: 189px;
+  display: block;
+  border-bottom: 2px solid #FFFFFF;
+  padding: 15px 0 15px 0;
+}
+
+.h_title {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.h_title2 h6 {
+  font-size: 21px;
+}
+
+.h_button {
+  font-size: 13px;
+  color: #FFFFFF;
+  border: 1px solid #FFFFFF;
+  padding: 10px 20px;
+}
+
+.h_button:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.h_social_icon a i {
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.h_social_icon a {
+  margin-right: 15px;
+}
+
+.o_book {
+  padding: 50px 30px;
+  background-color: #EEEEEE;
+  justify-content: space-between;
+  display: flex;
+}
+
+.o_service_img img {
+  height: 199px;
+}
+
+.service-item i {
+  font-size: 48px;
+}
+
+.a_social {
+  font-size: 20px;
+  margin-top: 28px;
+}
+
+.a_social a {
+  margin-left: 27px;
+  color: #7D82A5;
+}
+
+.a_jogajog ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.a_jogajog ul li {
+  font-size: 15px;
+  line-height: 32px;
+}
+
+.s_info {
+  padding: 60px 30px 60px 30px;
+  background-color: #37CADD;
+}
+
+.n_color {
+  background-color: #F4F4F4;
+  padding: 27px 10px;
+}
+
+.sn_social {
+  font-size: 30px;
+  margin: 10px 0 30px 0;
+}
+
+.sn_social i {
+  margin-right: 10px;
+}
+
+.sac_bottom {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 5px;
+}
+
+.sac_bottom i {
+  font-size: 25px;
+}
+
+.sac_underline {
+  border-bottom: 1px dotted #2C3134;
+}
+
+.sa_sec {
+  background-image: url(../../assets/img/sahittobackground.jpg);
+}
+
+.satb_button {
+  transition: .5s;
+}
+
+.satb_button:hover {
+  margin-left: 30px;
+}
+
+/* start other page */
+
